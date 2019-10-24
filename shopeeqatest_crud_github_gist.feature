@@ -1,4 +1,4 @@
-@shopee-test
+@shopee-test-qa
 Feature:  APIV4 Product to catalog assignment
 
     Background: user logged in
